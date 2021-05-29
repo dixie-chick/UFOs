@@ -50,3 +50,6 @@ Then, a function was called to apply all the filters
 ## Code long and prosper
 The refactoring of the code to include several other filters is a huge improvement. Users can input by several different choices and see full results, or narrow down. At the current time, users cannot include their own input into the database. A major improvement would be to have an input field based off the current table to further the findings. Eventually when enough data is captured, the results could be formatted into a graph using Plotly to show high areas of UFO sightings. 
 Additionally, users are not able to download the table to their own device in it's current state, so enabling a download feature link could be useful to keep webpage traffic high. 
+
+![beam me up](https://user-images.githubusercontent.com/79612565/120056286-f85f0d80-bfef-11eb-8d14-9afd4ed530fe.jpeg)
+
