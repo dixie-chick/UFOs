@@ -43,7 +43,7 @@ Then, a function was called to apply all the filters
   ### Unfiltered
   ![unfiltered](https://user-images.githubusercontent.com/79612565/120055924-eaa88880-bfed-11eb-92fa-42c8372224ee.png)
 
-  ### Filtered Focusing on El Cajon in California
+  ### Filtered where the user has selected El Cajon in the "city" section
 ![filtered](https://user-images.githubusercontent.com/79612565/120055930-fc8a2b80-bfed-11eb-80e9-0d3e668610df.png)
 
 
